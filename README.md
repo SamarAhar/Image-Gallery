@@ -1,1 +1,1 @@
-# parallex-website
+# Image Gallery
